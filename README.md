@@ -77,6 +77,9 @@ python resize_images.py
 
   You'll see a completion message, and all images in the images directory will be resized.
 
+## Limitations
+
+File Type Support: The script currently supports a few common image file extensions (.png, .jpg, .jpeg, .gif, .bmp)
 That's it! You have successfully resized your images using the provided Python script.
 
 
